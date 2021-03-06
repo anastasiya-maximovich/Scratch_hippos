@@ -1,6 +1,7 @@
 # Scratch_hippos
 
-![Screenshot_1](https://user-images.githubusercontent.com/63050839/110221058-fa2aa080-7eda-11eb-9357-0e76e7db2de4.png)
+![Screenshot_2](https://user-images.githubusercontent.com/63050839/110221458-6a3a2600-7edd-11eb-82d0-f08e0472ccdf.png)
+
 
 Demo: [Shot first Scratch project](https://scratch.mit.edu/projects/4975459770) 
 
